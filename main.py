@@ -1,7 +1,7 @@
 # ===================================
 # [Your Program Title]
 # ===================================
-# Developed by. [Enter your name]
+# Developed by. Renaldi Bagus Wisesa
 # JCDS - [Class Batch]
 
 
